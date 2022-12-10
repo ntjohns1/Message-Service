@@ -1,0 +1,11 @@
+okta:
+  oauth2:
+    issuer: 1234
+    client-secret: 1234
+    client-id: 1234
+logging:
+  level:
+    root: WARN
+    org:
+      springframework: INFO
+
